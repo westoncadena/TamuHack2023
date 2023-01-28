@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "amadeus": "^7.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "type": "module",
+  "name": "tamuhack2023",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/westoncadena/TamuHack2023.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/westoncadena/TamuHack2023/issues"
+  },
+  "homepage": "https://github.com/westoncadena/TamuHack2023#readme"
+}
